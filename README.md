@@ -12,7 +12,8 @@ Ce projet est une excellente opportunité pour moi, en tant que testeur logiciel
 * Manipulation d'une base de données complexe simulant un environnement universitaire.
 * Test de la validité et de l'intégrité des données. 
 * Élaboration de requêtes SQL efficaces pour détecter des anomalies ou des erreurs de données, utiles pour les tests logiciels.
-* Suivi des instructions des fichiers PDF pour réaliser les exercices :
-** Requêtes SQL et Réponses Attendues Niveau 1.pdf
-** Requêtes SQL et Réponses Attendues Niveau 2.pdf
-** Requêtes SQL et Réponses Attendues Niveau 3.pdf pour les défis les plus complexes.
+* Suivi des instructions des fichiers PDF pour réaliser les exercices [ici](https://github.com/imedadjelia/Projet-SQL/tree/main/Requetes) :
+- Requêtes SQL et Réponses Attendues Niveau 1.pdf
+- Requêtes SQL et Réponses Attendues Niveau 2.pdf
+- Requêtes SQL et Réponses Attendues Niveau 3.pdf pour les défis les plus complexes.
+
